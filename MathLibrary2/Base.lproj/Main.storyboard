@@ -252,6 +252,9 @@
                                         <include reference="wXE-MP-5w1"/>
                                     </mask>
                                 </variation>
+                                <connections>
+                                    <action selector="addBookButtonPressed:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="DnZ-Iy-eej"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
@@ -412,6 +415,7 @@
                         </variation>
                     </view>
                     <connections>
+                        <outlet property="addNewBookTextField" destination="Wjl-ZP-P2e" id="F3R-rs-lzp"/>
                         <outlet property="book0Label" destination="Xrm-h7-3gX" id="UTw-KD-6Pb"/>
                         <outlet property="book1Label" destination="Neh-ip-RPC" id="BFX-Pd-VMV"/>
                         <outlet property="book2Label" destination="uLt-oA-mF0" id="va1-HR-Pnf"/>

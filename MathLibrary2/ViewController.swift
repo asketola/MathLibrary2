@@ -19,6 +19,9 @@ class ViewController: UIViewController {
     @IBOutlet weak var book4Label: UILabel!
     @IBOutlet weak var book5Label: UILabel!
 
+    // add new book variable
+    @IBOutlet weak var addNewBookTextField: UITextField!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
@@ -29,6 +32,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    // book buttons
     @IBAction func book0ButtonPressed(sender: AnyObject) {
     }
     @IBAction func book1ButtonPressed(sender: AnyObject) {
@@ -41,7 +45,10 @@ class ViewController: UIViewController {
     }
     @IBAction func book5ButtonPressed(sender: AnyObject) {
     }
-
+    
+    // Add new book button
+    @IBAction func addBookButtonPressed(sender: AnyObject) {
+    }
 
 }
 
