@@ -13,6 +13,8 @@
 		79C47B9E1A3B6F2100FA1670 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79C47B9D1A3B6F2100FA1670 /* Images.xcassets */; };
 		79C47BA11A3B6F2100FA1670 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 79C47B9F1A3B6F2100FA1670 /* LaunchScreen.xib */; };
 		79C47BAD1A3B6F2100FA1670 /* MathLibrary2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79C47BAC1A3B6F2100FA1670 /* MathLibrary2Tests.swift */; };
+		79C47BB71A3B6F6500FA1670 /* shelf-wall2-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 79C47BB61A3B6F6500FA1670 /* shelf-wall2-2.png */; };
+		79C47BB91A3B6F7500FA1670 /* brown_book_by_lyotta-d5sw9q1-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 79C47BB81A3B6F7500FA1670 /* brown_book_by_lyotta-d5sw9q1-3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		79C47BA61A3B6F2100FA1670 /* MathLibrary2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MathLibrary2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		79C47BAB1A3B6F2100FA1670 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		79C47BAC1A3B6F2100FA1670 /* MathLibrary2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MathLibrary2Tests.swift; sourceTree = "<group>"; };
+		79C47BB61A3B6F6500FA1670 /* shelf-wall2-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "shelf-wall2-2.png"; sourceTree = "<group>"; };
+		79C47BB81A3B6F7500FA1670 /* brown_book_by_lyotta-d5sw9q1-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "brown_book_by_lyotta-d5sw9q1-3.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +85,8 @@
 				79C47B981A3B6F2100FA1670 /* ViewController.swift */,
 				79C47B9A1A3B6F2100FA1670 /* Main.storyboard */,
 				79C47B9D1A3B6F2100FA1670 /* Images.xcassets */,
+				79C47BB61A3B6F6500FA1670 /* shelf-wall2-2.png */,
+				79C47BB81A3B6F7500FA1670 /* brown_book_by_lyotta-d5sw9q1-3.png */,
 				79C47B9F1A3B6F2100FA1670 /* LaunchScreen.xib */,
 				79C47B941A3B6F2100FA1670 /* Supporting Files */,
 			);
@@ -192,6 +198,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				79C47BB91A3B6F7500FA1670 /* brown_book_by_lyotta-d5sw9q1-3.png in Resources */,
+				79C47BB71A3B6F6500FA1670 /* shelf-wall2-2.png in Resources */,
 				79C47B9C1A3B6F2100FA1670 /* Main.storyboard in Resources */,
 				79C47BA11A3B6F2100FA1670 /* LaunchScreen.xib in Resources */,
 				79C47B9E1A3B6F2100FA1670 /* Images.xcassets in Resources */,
